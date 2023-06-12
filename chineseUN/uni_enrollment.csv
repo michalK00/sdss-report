@@ -1,0 +1,589 @@
+,Institution,Found Year,Total Students,Total International Students,Undergraduate Students,Undergraduate International Students,Graduate Students,Graduate International Students
+0,Tsinghua University,1911,56939,3926,15707,1494,32298,2432
+0,Peking University,1898,52326,3269,16253,1644,24954,1625
+0,Zhejiang University,1897,65605,4479,25924,2676,28048,1803
+0,Shanghai Jiao Tong University,1896,42010,2837,17505,1154,24505,1683
+0,Fudan University,1905,38340,2534,14656,1460,23684,1074
+0,Nanjing University,1902,36625,1144,13196,704,17393,440
+0,University of Science and Technology of China,1958,36651,833,7372,8,22451,825
+0,Huazhong University of Science and Technology,1952,56782,2796,30736,1274,26046,1522
+0,Wuhan University,1893,59329,2908,31412,2120,27917,788
+0,Xi'an Jiaotong University,1896,46730,2194,18700,1004,21826,1190
+0,Sun Yat-Sen University,1924,54996,2714,32973,2073,22023,641
+0,Sichuan University,1896,55419,3150,31098,2357,24321,793
+0,Harbin Institute of Technology,1920,36258,1772,15675,674,14200,1098
+0,Beihang University,1952,31774,1602,16306,641,15468,961
+0,Southeast University,1902,36710,1523,16982,739,19728,784
+0,Beijing Institute of Technology,1940,28771,1416,15429,702,13342,714
+0,Tongji University,1907,41752,1948,18115,1043,17871,905
+0,Renmin University of China,1937,26809,1663,10197,905,12192,758
+0,Beijing Normal University,1902,24880,1239,11190,660,13690,579
+0,Nankai University,1919,31718,1127,16046,609,11810,518
+0,Tianjin University,1895,41091,1647,19099,959,17327,688
+0,Shandong University,1901,66652,2312,41037,991,20410,1321
+0,Central South University,2000,63655,1387,34052,384,22472,1003
+0,Xiamen University,1921,38803,1443,20327,793,18476,650
+0,Northwestern Polytechnical University,1938,28990,1060,15457,494,13533,566
+0,South China University of Technology,1952,43758,1423,24646,915,15893,508
+0,Jilin University,1946,71755,1571,42609,1009,29146,562
+0,University of Electronic Science and Technology of China,1956,32763,1112,19763,264,13000,848
+0,Hunan University,1926,36551,783,20600,157,15951,626
+0,China Agricultural University,1905,22167,312,12204,22,9963,290
+0,East China Normal University,1951,35817,1906,15743,1189,20074,717
+0,Dalian University of Technology,1949,42146,914,25817,314,16329,600
+0,Southern University of Science and Technology,2009,5408,33,4178,33,939,0.0%
+0,Chongqing University,1929,43225,650,25874,127,14644,523
+0,University of Science and Technology Beijing,1952,27377,1082,13661,431,10440,651
+0,Nanjing University of Science and Technology,1953,29139,1056,16170,538,11259,518
+0,Nanjing University of Aeronautics and Astronautics,1952,30804,1251,18983,786,10032,465
+0,Northeastern University,1923,38029,690,20442,243,17587,447
+0,Xidian University,1931,36438,314,22474,177,13964,137
+0,Lanzhou University,1909,35629,578,19939,143,13131,435
+0,Soochow University (China),1900,42264,1127,28522,780,13742,347
+0,Huazhong Agricultural University,1898,29939,1084,18721,34,8829,1050
+0,Beijing jiaotong University,1896,30023,1528,16520,909,13503,619
+0,East China University of Science and Technology,1952,26659,356,16836,138,9823,218
+0,ShanghaiTech University,2013,3246,,1406,,1421,
+0,Zhengzhou University,1956,70683,1370,54087,1183,16596,187
+0,Central China Normal University,1903,29847,1517,18350,511,11497,1006
+0,Shanghai University,1922,37714,2195,21225,1272,16489,923
+0,Harbin Engineering University,1953,27518,833,16421,294,8761,539
+0,Jinan University,1906,45738,910,25319,766,10959,144
+0,Nanjing Agricultural University,1902,28027,495,17031,63,8974,432
+0,China University of Petroleum - Beijing,1953,15966,762,8639,565,7327,197
+0,Northeast Normal University,1946,29236,501,14716,145,14520,356
+0,Wuhan University of Technology,1948,53884,1352,37327,591,16557,761
+0,Southwest Jiaotong University,1896,42100,544,28817,72,11586,472
+0,China University of Mining and Technology - Xuzhou,1909,33538,541,24148,376,9390,165
+0,Beijing University of Posts and Telecommunications,1955,26525,270,14570,100,10151,170
+0,Nanjing Normal University,1902,28339,762,17384,485,9631,277
+0,China University of Geosciences (Wuhan),1952,29649,840,18240,160,11409,680
+0,Jiangnan University,1958,29146,537,20191,276,7773,261
+0,Hohai University,1915,32268,1019,20047,206,12221,813
+0,Ocean University of China,1924,27656,524,15817,310,10048,214
+0,Beijing University of Technology,1960,22164,471,13731,224,8433,247
+0,Beijing University of Chemical Technology,1958,23338,439,15575,154,6789,285
+0,Northwest University,1902,23020,516,13551,292,8206,224
+0,China University of Petroleum (Huadong),1953,27631,925,18917,687,7497,238
+0,Shaanxi Normal University,1944,44831,399,17670,168,17266,231
+0,Shenzhen University,1983,35145,401,27778,271,7367,130
+0,Nanchang University,1921,48939,697,34753,605,13217,92
+0,Zhejiang University of Technology,1953,27426,1438,18965,1374,7636,64
+0,China University of Geosciences (Beijing),1952,17361,187,8300,48,7376,139
+0,Southwest University,1906,53479,1162,39116,602,12288,560
+0,Fuzhou University,1958,35717,572,24320,526,11397,46
+0,Northwest A&F University,1934,32099,331,20925,1,8885,330
+0,North China Electric Power University,1958,33591,1318,24471,821,9120,497
+0,China University of Mining and Technology - Beijing,1909,14694,20,7675,11,5806,9
+0,Donghua University,1951,22398,872,14877,538,7521,334
+0,Jiangsu University,1902,32899,2175,24096,1237,7779,938
+0,South China Normal University,1933,36648,606,25643,386,9852,220
+0,Yunnan University,1922,27405,1409,16816,919,9374,490
+0,Yangzhou University,1902,41060,1514,27224,1171,13836,343
+0,Beijing Forestry University,1952,19240,302,13309,31,5931,271
+0,Hefei University of Technology,1945,42898,259,32891,80,10007,179
+0,Ningbo University,1986,23611,1820,18193,1593,5418,227
+0,Nanjing Tech University,1902,34694,317,26644,255,7249,62
+0,Nanjing University of Posts and Telecommunications,1942,27182,552,21765,396,5003,156
+0,Hunan Normal University,1938,32418,478,22831,381,9587,97
+0,Chang'an University,1951,34184,617,24765,345,9419,272
+0,Capital Normal University,1954,,,,,,
+0,Nanjing University of Information Science & Technology,1960,28750,828,24855,597,3895,231
+0,Hangzhou Dianzi University,1956,20285,765,15998,602,4127,163
+0,Xiangtan University,1958,,,,,,
+0,South China Agricultural University,1909,43633,154,37199,77,5384,77
+0,Yanshan University,1920,33708,120,25144,21,8564,99
+0,Fujian Normal University,1907,30933,392,23513,301,7420,91
+0,Guangxi University,1928,40455,636,28657,288,11798,348
+0,Guangzhou University,2000,34138,62,29788,10,4091,52
+0,Henan University,1912,45225,340,37336,195,7889,145
+0,Dalian Maritime University,1909,24257,612,17137,383,7120,229
+0,Zhejiang Normal University,1956,25529,1239,19386,802,6143,437
+0,Guangdong University of Technology,1952,43461,78,36184,66,6705,12
+0,University of Shanghai for Science and Technology,1906,25346,485,16657,367,8044,118
+0,Shanxi University,1902,31010,140,24096,84,6095,56
+0,Anhui University,1928,29849,281,22057,111,7248,170
+0,Shandong Normal University,1950,37008,151,31699,88,5309,63
+0,Hebei University of Technology,1903,30382,194,23111,82,6500,112
+0,Qingdao University,1909,42887,605,34150,486,8737,119
+0,Taiyuan University of Technology,1902,38330,490,31139,270,6429,220
+0,Guizhou University,1902,41962,422,32151,220,9120,202
+0,Nanjing Forestry University,1902,22849,139,18909,38,3533,101
+0,Shanghai Normal University,1954,29918,481,21256,357,8662,124
+0,Wuhan University of Science and Technology,1898,32323,382,25316,322,7007,60
+0,Inner Mongolia University,1957,,,,,,
+0,Zhejiang Sci-Tech University,1897,22903,779,18372,503,4531,276
+0,Northeast Forestry University - China,1952,,,,,,
+0,Fujian Agriculture and Forestry University,1936,28002,260,22052,6,5295,254
+0,Xi'an University of Technology,1949,25461,15,18056,5,6511,10
+0,Hainan University,1958,,,,,,
+0,Jiangxi Normal University,1940,,,,,,
+0,Northeast Agricultural University - China,1948,28420,211,23468,23,4183,188
+0,Changsha University of Science and Technology,1956,,,,,,
+0,Xi'an University of Architecture and Technology,1895,,,,,,
+0,Hubei University,1931,22310,14,19232,14,3078,0.0%
+0,Kunming University of Science and Technology,1954,44533,675,32463,206,10864,469
+0,Jiangsu Normal University,1952,,,,,,
+0,Shandong University of Science and Technology,1951,42404,265,36348,191,6056,74
+0,Liaoning University,1948,,,,,,
+0,Southwest Petroleum University,1958,36940,543,30552,484,6388,59
+0,Hangzhou Normal University,1908,,,,,,
+0,Hebei University,1921,28789,165,21460,100,7329,65
+0,Shaanxi University of Science and Technology,1958,21688,113,17861,2,3827,111
+0,Anhui Normal University,1928,,,,,,
+0,Beijing University of Civil Engineering and Architecture,1936,,,,,,
+0,Huaqiao University,1960,30702,4484,25553,3721,5149,763
+0,Shantou University,1981,12461,20,9161,12,3054,8
+0,Xinjiang University,1924,,,,,,
+0,Jiangsu University of Science and Technology,1933,,,,,,
+0,Shihezi University,1949,,,,,,
+0,China Jiliang University,1978,,,,,,
+0,Henan Agricultural University,1902,,,,,,
+0,Chongqing University of Posts and Telecommunications,1950,,,,,,
+0,Hubei University of Technology,1952,,,,,,
+0,Shenyang Agricultural University,1952,,,,,,
+0,Sichuan Agricultural University,1906,43994,109,37994,9,6000,100
+0,Wuhan Institute of Technology,1972,,,,,,
+0,Shandong Agricultural University,1906,,,,,,
+0,Changchun University of Science and Technology,1958,,,,,,
+0,Tianjin Normal University,1958,,,,,,
+0,Ningxia University,1958,,,,,,
+0,Heilongjiang University,1941,,,,,,
+0,Hunan Agricultural University,1903,,,,,,
+0,Changzhou University,1978,20113,281,17384,276,2688,5
+0,Zhejiang A&F University,1958,,,,,,
+0,Hebei Normal University,1902,,,,,,
+0,Henan Normal University,1923,37978,23,32322,22,5656,1
+0,Chengdu University of Technology,1956,,,,,,
+0,Tiangong University,1912,,,,,,
+0,Wenzhou University,1933,,,,,,
+0,Qilu University of Technology,1948,,,,,,
+0,Guangxi Normal University,1932,,,,,,
+0,Nantong University,1912,30684,614,27565,578,3119,36
+0,Anhui Agricultural University,1928,,,,,,
+0,University of Jinan,1948,37413,291,34783,182,2521,109
+0,Jilin Agricultural University,1948,19264,164,15586,22,3678,142
+0,Wuhan Textile University,1958,,,,,,
+0,Nanchang Hangkong University,1952,,,,,,
+0,Henan University of Science and Technology,1952,43420,208,40403,203,3017,5
+0,Shanghai Ocean University,1912,,,,,,
+0,Jiangxi University of Science and Technology,1958,,,,,,
+0,Qufu Normal University,1955,38174,3,33823,1,4160,2
+0,Xi'an University of Science and Technology,1958,,,,,,
+0,Jimei University,1918,,,,,,
+0,China Three Gorges University,1946,,,,,,
+0,North China University of Technology,1946,,,,,,
+0,Anhui University of Technology,1958,,,,,,
+0,Yanbian University,1949,24425,225,19348,116,5077,109
+0,Northwest Normal University China,1902,,,,,,
+0,East China Jiaotong University,1971,,,,,,
+0,Henan Polytechnic University,1909,,,,,,
+0,Shanghai Maritime University,1909,30563,172,24747,70,5816,102
+0,Liaoning Normal University,1951,,,,,,
+0,Qingdao University of Science and Technology,1950,32168,42,28341,13,3557,29
+0,Hebei Agricultural University,1902,,,,,,
+0,North University of China,1941,38761,185,34575,138,4186,47
+0,Tianjin University of Science and Technology,1958,,,,,,
+0,Yangtze University,2003,,,,,,
+0,Jiangxi Agricultural University,1905,,,,,,
+0,Hunan University of Science and Technology,1949,,,,,,
+0,Yunnan Normal University,1938,,,,,,
+0,East China University of Technology,1956,22393,89,19959,85,2434,4
+0,University of South China,1958,34415,602,29989,559,4426,43
+0,Xi'an University of Posts and Telecommunications,1950,,,,,,
+0,Zhejiang Ocean University,1958,11215,74,10008,28,1207,46
+0,Chongqing Jiaotong University,1951,,,,,,
+0,Shenyang University of Technology,1949,,,,,,
+0,Sichuan Normal University,1946,,,,,,
+0,Inner Mongolia Agricultural University,1952,,,,,,
+0,Tianjin University of Technology,1978,,,,,,
+0,Lanzhou University of Technology,1919,,,,,,
+0,Shanghai University of Electric Power,1951,,,,,,
+0,Anhui University of Science and Technology,1945,,,,,,
+0,University of International Relations,1949,,,,,,
+0,Shenyang Aerospace University,1952,,,,,,
+0,Central South University of Forestry & Technology,1958,,,,,,
+0,Qinghai University,1958,,,,,,
+0,Southwest University of Science and Technology,1952,,,,,,
+0,Beijing Information Science & Technology University,1937,,,,,,
+0,Shandong University of Technology,1956,,,,,,
+0,Henan University of Technology,1956,,,,,,
+0,Beijing Electronic Science and Technology Institute,1947,,,,,,
+0,Suzhou University of Science and Technology,1932,,,,,,
+0,Northeast Petroleum University,1960,,,,,,
+0,Shanghai University of Engineering Science,1978,,,,,,
+0,Harbin Normal University,1951,,,,,,
+0,Qingdao University of Technology,1953,,,,,,
+0,Yantai University,1984,,,,,,
+0,Foshan University,1958,,,,,,
+0,North China University of Water Resources and Electric Power,1951,,,,,,
+0,Qingdao Agricultural University,1951,,,,,,
+0,Shanxi Agricultural University,1907,,,,,,
+0,Shijiazhuang Tiedao University,1950,,,,,,
+0,Harbin University of Science and Technology,1950,,,,,,
+0,Gansu Agricultural University,1946,,,,,,
+0,Jiaxing University,1914,,,,,,
+0,Hainan Normal University,1949,,,,,,
+0,Huzhou University,1916,,,,,,
+0,Wuhan Polytechnic University,1951,19249,29,17573,29,1676,0.0%
+0,Chongqing University of Technology,1940,,,,,,
+0,Lanzhou Jiaotong University,1958,,,,,,
+0,Ludong University,1930,,,,,,
+0,Guilin University of Electronic Technology,1960,,,,,,
+0,China West Normal University,1946,,,,,,
+0,Beijing University of Agriculture,1956,,,,,,
+0,Tibet University,1985,,,,,,
+0,Dalian Polytechnic University,1958,,,,,,
+0,Chongqing Normal University,1954,,,,,,
+0,Anhui jianzhu University,1958,,,,,,
+0,Chengdu University,1978,23521,455,22159,345,1362,110
+0,Liaocheng University,1974,,,,,,
+0,Chengdu University of Information Technology,1951,23492,4,22046,0.0%,1446,4
+0,Hebei University of Science and Technology,1956,,,,,,
+0,Shandong Jianzhu University,1956,,,,,,
+0,Anhui Polytechnic University,1935,,,,,,
+0,Dongguan University of Technology,1990,,,,,,
+0,Xi'an Shiyou University,1951,,,,,,
+0,Nanjing Institute of Technology,1915,,,,,,
+0,Shenyang Jianzhu University,1948,,,,,,
+0,GanNan Normal University,1958,,,,,,
+0,Xi'an Technological University,1955,,,,,,
+0,Zhengzhou University of Light Industry,1977,,,,,,
+0,Shanxi Normal University,1958,,,,,,
+0,Beijing Institute of Graphic Communication,1958,,,,,,
+0,Inner Mongolia Normal University,1952,,,,,,
+0,Qinghai Normal University,1956,,,,,,
+0,Shenyang Normal University,1951,,,,,,
+0,Shenyang University of Chemical Technology,1952,14407,203,12980,180,1427,23
+0,Dalian University,1949,15842,52,14678,52,1164,0.0%
+0,NingboTech University,2001,10283,0.0%,10283,0.0%,,0.0%
+0,Shanghai Institute of Technology,1956,,,,,,
+0,Hefei University,1980,,,,,,
+0,Xiamen University of Technology,1981,19320,149,18733,129,587,20
+0,Liaoning shihua University,1950,17950,830,16461,724,1489,106
+0,Guilin University of Technology,1956,,,,,,
+0,Hunan University of Technology,1958,,,,,,
+0,Northeast Electric Power University,1949,,,,,,
+0,Guizhou Normal University,1941,,,,,,
+0,Liaoning University of Technology,1951,13474,606,12801,526,673,80
+0,Civil Aviation University of China,1951,,,,,,
+0,Xinyang Normal University,1975,,,,,,
+0,Jilin Normal University,1958,,,,,,
+0,Jianghan University,2001,,,,,,
+0,Zhongyuan University of Technology,1955,,,,,,
+0,Linyi University,1941,,,,,,
+0,Shaoxing University,1996,,,,,,
+0,Yan'an University,1941,,,,,,
+0,Beijing Union University,1978,,,,,,
+0,Yancheng Institute of Technology,1958,,,,,,
+0,Beijing Institute of Petrochemical Technology,1978,,,,,,
+0,Liaoning Technical University,1949,,,,,,
+0,Zhejiang University City College,1999,,,,,,
+0,North China University of Science and Technology,1895,,,,,,
+0,Xi'an Polytechnic University,1912,,,,,,
+0,Changchun University of Technology,1952,,,,,,
+0,Jinggangshan University,1958,,,,,,
+0,Xihua University,1960,,,,,,
+0,Shanghai Customs College,1953,,,,,,
+0,Hebei University of Engineering,1952,,,,,,
+0,Heilongjiang Bayi Agricultural University,1958,,,,,,
+0,Bohai University,1950,,,,,,
+0,Dalian Jiaotong University,1956,,,,,,
+0,Anqing Normal University,1897,,,,,,
+0,Jingdezhen Ceramic Institute,1910,,,,,,
+0,Huaiyin Institute of Technology,1958,,,,,,
+0,Jishou University,1958,,,,,,
+0,Hunan Institute of Science and Technology,1907,,,,,,
+0,Zhejiang University of Science and Technology,1980,,,,,,
+0,Taiyuan University of Science and Technology,1952,,,,,,
+0,Chongqing University of Science and Technology,1951,,,,,,
+0,Shenyang Ligong University,1948,,,,,,
+0,Guangxi Teachers Education University,1953,,,,,,
+0,Huaibei Normal University,1974,,,,,,
+0,Minnan Normal University,1958,,,,,,
+0,Ningbo University of Technology,1983,13897,93,13897,93,,0.0%
+0,Inner Mongolia University of Technology,1951,,,,,,
+0,Xinjiang Normal University,1978,,,,,,
+0,Xinjiang Agricultural University,1952,23762,7,20277,5,3485,2
+0,Jinling Institute of Technology,1958,,,,,,
+0,Nanchang Institute of Technology,1958,,,,,,
+0,Changshu Institute of Technology,1958,,,,,,
+0,Huaiyin Normal University,1997,,,,,,
+0,Yangtze Normal University,1931,21999,189,21999,189,,0.0%
+0,Beihua University,1906,,,,,,
+0,Guangdong Ocean University,1935,,,,,,
+0,Guangdong Polytechnic Normal University,1957,,,,,,
+0,Jiangxi Science and Technology Normal University,1952,,,,,,
+0,Taizhou University,1941,,,,,,
+0,Dalian Ocean University,1952,,,,,,
+0,University of Science and Technology Liaoning,1948,,,,,,
+0,Luoyang Normal University,1916,,,,,,
+0,Hubei Normal University,1973,,,,,,
+0,Shanghai Dianji University,1953,,,,,,
+0,Changzhou Institute of Technology,1978,,,,,,
+0,Yancheng Teachers University,1958,,,,,,
+0,Hubei University of Education,1931,,,,,,
+0,Changchun Normal University,1958,,,,,,
+0,Huaihai Institute of Technology,1985,,,,,,
+0,Yunnan Agricultural University,1938,,,,,,
+0,Changsha University,1970,,,,,,
+0,Dali University,1978,,,,,,
+0,Sichuan University of Science and Engineering,1965,,,,,,
+0,Minjiang University,2002,,,,,,
+0,Jiangsu University of Technology,1984,,,,,,
+0,Jilin Jianzhu University,1956,,,,,,
+0,Fujian University of Technology,1896,,,,,,
+0,Inner Mongolia University of Science & Technology,1956,,,,,,
+0,Guizhou Normal College,1978,,,,,,
+0,Tarim University,1958,,,,,,
+0,Huanggang Normal University,1905,,,,,,
+0,Chongqing University of Arts and Science,1976,,,,,,
+0,Shenyang University,1905,,,,,,
+0,Tongren University,2006,,,,,,
+0,Henan Institute of Science and Technology,1939,,,,,,
+0,Wuyi University,1958,,,,,,
+0,Hunan First Normal University,1903,,,,,,
+0,Mianyang Teachers' College,1940,,,,,,
+0,Shanghai Second Polytechnic University,1960,,,,,,
+0,Binzhou University,1958,,,,,,
+0,Hubei University of Arts and Science,1905,,,,,,
+0,Anhui Science and Technology University,1950,,,,,,
+0,Zhejiang Wanli University,1950,,,,,,
+0,Southwest Forestry University,1939,,,,,,
+0,Tianjin Agricultural University,1976,,,,,,
+0,Quzhou University,1985,,,,,,
+0,Tianjin Chengjian University,1978,,,,,,
+0,Changchun University,1938,,,,,,
+0,Hefei Normal University,1955,,,,,,
+0,Quanzhou Normal University,1958,,,,,,
+0,Shandong Jiaotong University,1956,,,,,,
+0,"Nanjing University of Information Science and Technology, Binjiang College",2002,,,,,,
+0,Hengyang Normal University,1904,,,,,,
+0,TianJin University of Technology and Education,1979,,,,,,
+0,Hubei University of Science and Technology,1937,,,,,,
+0,Panzhihua University,1983,,,,,,
+0,Yichun University,1958,,,,,,
+0,Zhongkai University of Agriculture and Engineering,1927,,,,,,
+0,Fuyang Normal University,1956,,,,,,
+0,Nanjing XiaoZhuang University,1927,,,,,,
+0,Jiangsu Second Normal University,1952,,,,,,
+0,LingNan Normal University,1904,,,,,,
+0,Tibet Agriculture and Animal Husbandry University,1972,,,,,,
+0,Huizhou University,1921,,,,,,
+0,Hunan University of Arts and Science,1958,,,,,,
+0,Neijiang Normal University,1956,,,,,,
+0,Heilongjiang Institute of Technology,1952,,,,,,
+0,Nanyang Institute of Technology,1987,,,,,,
+0,Lishui University,1907,,,,,,
+0,Qiqihar University,1952,,,,,,
+0,Zhejiang University of Water Resources and Electric Power,1953,,,,,,
+0,Anyang Normal University,1908,,,,,,
+0,Huanghuai University,1973,,,,,,
+0,Nanyang Normal University,1907,,,,,,
+0,Shangrao Normal University,1958,,,,,,
+0,Dezhou University,1971,,,,,,
+0,Yulin Normal University,1945,,,,,,
+0,Shaanxi University of Technology,1958,,,,,,
+0,Xi'an University,2003,,,,,,
+0,Xuzhou Institute of Technology,2002,,,,,,
+0,Zhoukou Normal University,1973,,,,,,
+0,Taishan University,1958,,,,,,
+0,Xinyang Agriculture and Forestry University,1910,,,,,,
+0,Sanming University,1903,,,,,,
+0,Zaozhuang University,1971,,,,,,
+0,Chongqing Three Gorges University,1956,,,,,,
+0,Hubei University of Automotive Technology,1972,,,,,,
+0,Chengdu Normal University,1955,,,,,,
+0,Guangxi University of Science and Technology,1958,,,,,,
+0,Guangdong University of Petrochemical Technology,1954,,,,,,
+0,Chuzhou University,1950,,,,,,
+0,Guangdong University of Education,1955,,,,,,
+0,Weifang University,1951,,,,,,
+0,Institute of Disaster Prevention,1975,,,,,,
+0,Hubei Engineering University,1943,,,,,,
+0,Hubei Polytechnic University,1975,,,,,,
+0,Hunan University of Science and Engineering,1941,,,,,,
+0,Huaihua University,1958,,,,,,
+0,Hunan City University,2002,,,,,,
+0,Suqian College,2002,,,,,,
+0,Xiangnan University,1912,,,,,,
+0,Guizhou Institute of Technology,2013,,,,,,
+0,Nanchang Normal University,1952,,,,,,
+0,North China Institute of Aerospace Engineering,1978,,,,,,
+0,Changchun Institute of Technology,1951,,,,,,
+0,Leshan Normal University,1978,,,,,,
+0,Heilongjiang University of Science and Technology,1947,,,,,,
+0,Hunan Institute of Engineering,1951,,,,,,
+0,Jiamusi University,1947,,,,,,
+0,Civil Aviation Flight University of China,1956,,,,,,
+0,Longyan University,1958,,,,,,
+0,Shangqiu Normal University,1905,,,,,,
+0,Putian University,2002,,,,,,
+0,Xichang College,1939,,,,,,
+0,Qujing Normal University,1907,14981,45,14981,45,,0.0%
+0,Chongqing University of Education,1954,,,,,,
+0,Zunyi Normal University,1907,,,,,,
+0,Shanxi Datong University,1950,,,,,,
+0,Henan University of Urban Construction,1983,,,,,,
+0,Chengdu Technological University,1913,,,,,,
+0,Qilu Normal University,1948,,,,,,
+0,Tonghua Normal University,1958,,,,,,
+0,Pingdingshan University,1977,,,,,,
+0,YingKou Institute of Technology,2013,,,,,,
+0,Zhixing College of Northwest Normal University,,,,,,,
+0,Jiujiang University,1901,,,,,,
+0,Hainan Tropical Ocean University,1954,,,,,,
+0,Yibin University,1978,,,,,,
+0,"Hunan University of Humanities, Science and Technology",1978,,,,,,
+0,HeXi University,1941,,,,,,
+0,Shaoyang University,1958,,,,,,
+0,Tianshui Normal University,1959,,,,,,
+0,Hanshan Normal University,1903,,,,,,
+0,Ningxia Normal University,1975,,,,,,
+0,Jilin Engineering Normal University,1979,,,,,,
+0,Bozhou University,1909,,,,,,
+0,Henan University of Animal Husbandry and Economy,1960,,,,,,
+0,Shandong Youth University of Political Science,1949,,,,,,
+0,Taiyuan Normal University,1999,,,,,,
+0,Fujian Polytechnic Normal University,1977,,,,,,
+0,Yulin University,1958,,,,,,
+0,Baoji University of Arts and Sciences,1958,,,,,,
+0,Hebei Normal University of Science and Technology,1941,,,,,,
+0,West AnHui University,1918,,,,,,
+0,Guiyang University,1978,,,,,,
+0,Henan University of Engineering,1954,,,,,,
+0,Shandong Management University,1938,,,,,,
+0,Xinxiang University,2007,,,,,,
+0,Beibu Gulf University,1973,,,,,,
+0,Xi'an Aeronautical University,1955,,,,,,
+0,Weinan Normal University,1923,,,,,,
+0,Eastern Liaoning University,1948,,,,,,
+0,Mudanjiang Normal University,1958,,,,,,
+0,Anyang Institute of Technology,1983,,,,,,
+0,Tangshan Normal University,1956,,,,,,
+0,Huainan Normal University,1958,,,,,,
+0,Harbin University,1999,,,,,,
+0,Qiushi College of Guizhou Normal University Institute,,,,,,,
+0,Zhaoqing University,1970,,,,,,
+0,Suzhou University,1949,,,,,,
+0,Yuxi Normal University,1978,,,,,,
+0,Shandong Women's University,1952,,,,,,
+0,Jiaying University,1913,,,,,,
+0,Xianyang Normal University,1978,,,,,,
+0,Shijiazhuang University,1958,,,,,,
+0,Sichuan Tourism University,1985,,,,,,
+0,Long Dong University,1978,,,,,,
+0,Xuchang University,1942,,,,,,
+0,Huzhou University Qiuzhen College,1999,,,,,,
+0,Anshan Normal University Liaoning China,1958,,,,,,
+0,Jilin Institute of Chemical Technology,1958,,,,,,
+0,Tianjin Sino-German University of Applied Sciences,1985,,,,,,
+0,Changzhi University,1958,,,,,,
+0,Liaoning Institute of Science and Technology,1948,,,,,,
+0,Shandong Agriculture and Engineering University,1971,,,,,,
+0,Luoyang Institute of Science and Technology,1956,,,,,,
+0,Pingxiang University,1941,,,,,,
+0,Kaili University,1958,,,,,,
+0,Shaoguan University,1958,,,,,,
+0,Wenzhou University Oujiang College,2000,,,,,,
+0,Hunan Institute of Technology,1975,,,,,,
+0,Wenzheng College of Soochow University,1998,,,,,,
+0,Ningde Normal University,1958,,,,,,
+0,Qiannan Normal College for Nationalities,1958,,,,,,
+0,Huangshan University,1978,,,,,,
+0,North China Electric Power University Science and Technology College,,,,,,,
+0,Yili Normal University,1948,,,,,,
+0,Jining University,1951,,,,,,
+0,Kunming University,1978,,,,,,
+0,Bengbu University,1976,,,,,,
+0,Chifeng University,2003,,,,,,
+0,Lanzhou City University,1958,,,,,,
+0,Chaohu University,1977,,,,,,
+0,Chizhou University,1977,,,,,,
+0,Shangluo University,1976,,,,,,
+0,Taiyuan Institute of Technology,1954,,,,,,
+0,Honghe University,1978,,,,,,
+0,Jingdezhen University,1977,,,,,,
+0,Guangzhou Maritime University,1964,,,,,,
+0,Kashi University,1962,,,,,,
+0,Sichuan University of Arts and Science,1976,,,,,,
+0,Jilin Agricultural Science and Technology University,1907,,,,,,
+0,Zhengzhou Normal University,1949,,,,,,
+0,Heze University,1949,,,,,,
+0,Anshun University,1938,,,,,,
+0,Hebei University of Architecture,1950,,,,,,
+0,Hulunbuir University,1977,,,,,,
+0,Nanjing Normal University of Special Education,1982,,,,,,
+0,Xinyu University,1985,,,,,,
+0,Baicheng Normal University,1958,,,,,,
+0,Aba Teachers University,1938,,,,,,
+0,Shaanxi Xueqian Normal University,1963,,,,,,
+0,Daqing Normal University,1965,,,,,,
+0,Jingchu University of Technology,1956,,,,,,
+0,Zhengzhou Institute of Technology,1980,,,,,,
+0,Chuxiong Normal University,1936,,,,,,
+0,Liupanshui Normal University,1978,,,,,,
+0,Wuzhou University,1985,,,,,,
+0,Hezhou University,1943,,,,,,
+0,Guilin University of Aerospace Technology,1979,,,,,,
+0,Changsha Normal University,1912,,,,,,
+0,Yuzhang Normal University,1908,,,,,,
+0,Ankang University,1958,,,,,,
+0,Henan Institute of Technology,1975,,,,,,
+0,Tangshan College,1956,,,,,,
+0,Hebei University of Environmental Engineering,1981,,,,,,
+0,Yuncheng University,1978,,,,,,
+0,Baoding University,1904,,,,,,
+0,Baoshan University,1978,,,,,,
+0,North China Institute of Science and Technology,1984,,,,,,
+0,Lanzhou University of Arts and Science,1950,,,,,,
+0,"College of Applied Science, Jiangxi University of Science and Technology",2001,,,,,,
+0,Lanzhou Institute of Technology,1942,,,,,,
+0,Xingyi Normal University for Nationalities,1813,,,,,,
+0,Xinzhou Teachers University,1958,,,,,,
+0,"Shengli College, China University of Petroleum",1979,,,,,,
+0,Cangzhou Normal University,1958,,,,,,
+0,Qiongtai Normal University,1705,,,,,,
+0,Xingtai University,1910,,,,,,
+0,Sichuan University for Nationalities,1985,,,,,,
+0,Handan College,1905,,,,,,
+0,Guizhou University of Engineering Science,2005,,,,,,
+0,Heihe University,1958,,,,,,
+0,Baise University,1938,,,,,,
+0,Hengshui University,1923,,,,,,
+0,Guangxi Normal University for Nationalities,1939,,,,,,
+0,Suihua University,1953,,,,,,
+0,Puer University,1978,,,,,,
+0,Hanjiang Normal University,1904,,,,,,
+0,Hebei Normal University for Nationalities,1907,,,,,,
+0,Jinzhong University,1958,,,,,,
+0,Wenshan University,1984,,,,,,
+0,Xinjiang Institute of Engineering,1958,,,,,,
+0,Ordos Institute of Technology,2008,,,,,,
+0,"East China Institute of Technology, Yangtze River College",2002,,,,,,
+0,Luliang University,1978,,,,,,
+0,Jining Normal University,1931,,,,,,
+0,Taiyuan University,1984,,,,,,
+0,Guangxi Science and Technology Normal University,1958,,,,,,
+0,Shanxi Institute of Technology,1984,,,,,,
+0,Zhangjiakou University,1978,,,,,,
+0,Hechi University,1951,,,,,,
+0,Hetao University,1985,,,,,,
+0,West Yunnan University,2015,,,,,,
+0,Heilongjiang University of Technology,1984,,,,,,
+0,Langfang Teachers University,1946,,,,,,
+0,Hebei University of Water Resources and Electric Engineering,1952,,,,,,
+0,Gansu Normal University for Nationalities,1984,,,,,,
+0,Shanxi Institute of Energy,1984,,,,,,
+0,Zhaotong University,1978,,,,,,
+0,Xinjiang Institute of Technology,2002,,,,,,
+0,Changji University,1959,,,,,,
+0,West Yunnan University of Applied Sciences,2017,,,,,,
+0,Shenyang Institute of Engineering,2003,,,,,,
+0,Polytechnic College of Hebei University of Science and Technology,2001,,,,,,
+0,Baotou Teachers' College,,,,,,,
+0,Hebei University of Technology City College,2001,,,,,,
+0,Shanxi Vocational University of Engineering Science and Technology,,,,,,,
+0,Shanxi Institute of Science and Technology,2002,,,,,,
+0,Guangxi Vocational University of Agriculture,,,,,,,
+0,Xinjiang University of Political Science and Law,2002,,,,,,
